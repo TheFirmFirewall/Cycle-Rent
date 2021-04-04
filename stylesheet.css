@@ -70,14 +70,14 @@ marquee span {
     padding-top: 10px;   
     margin-top: 5px;
     background-image: url(Cycling-main.jpg);
-    background-size: 1504px 720px;
+    background-size: 100vw 50vw;
     background-repeat: no-repeat;
     width: 100%;
     border-radius: 4px;
 }
 .Rental {
     font-weight: bold;
-    
+    text-align: center;
 }
 .type:hover {
     background-color: rgb(216,150,127);
@@ -85,16 +85,15 @@ marquee span {
 .Head {
     text-align: center;
     font-size: 40px;
-    width: 480px;
     padding: 10px 10px;
-    margin: 55px 485px 5px 485px;
+    margin: 55px 0 5px 0;
     color: black;
 } 
 .type {
     display: inline-block;
     font-size: 20px;
     padding: 10px 45px;
-    margin: 0px 300px;
+    margin: 0px 30px;
     color: Black;
     border-radius: 17px;
     background-color: rgba(104, 60, 46, 0.3);
