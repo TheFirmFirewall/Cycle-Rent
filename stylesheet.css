@@ -70,7 +70,7 @@ marquee span {
     padding-top: 10px;   
     margin-top: 5px;
     background-image: url(Cycling-main.jpg);
-    background-size: 100vw 50vw;
+    background-size: 100vw 55vw;
     background-repeat: no-repeat;
     width: 100%;
     border-radius: 4px;
@@ -100,10 +100,9 @@ marquee span {
     background-color: rgba(104, 60, 46, 0.3);
 }
 .impression {
-    margin-top: 10px;
+    margin-top: 1px;
     margin-left: 50px;
-    font-size: 40px;
-    font-style: italic;
+    font-size: 45px;
 }
 .slogn {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
