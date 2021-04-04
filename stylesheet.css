@@ -259,8 +259,7 @@ input {
     font-size: 20px;
     padding: 5px 10px;
     border: 2px solid black;
-    font-weight: bold;
-    border-color: 7px;
+    border-radius: 7px;
 }
 .textbox {
     width: 70%;
