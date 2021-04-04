@@ -261,6 +261,9 @@ input {
     border: 2px solid black;
     border-radius: 7px;
 }
+.sub:active {
+    box-shadow: 2px 2px rgb(184,154,154,0.5);
+}
 .textbox {
     width: 70%;
     height: 100px;
