@@ -106,7 +106,7 @@ marquee span {
     font-style: italic;
 }
 .slogn {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(105, 64, 64);
     text-align: left;
 }
