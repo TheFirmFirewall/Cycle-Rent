@@ -255,11 +255,12 @@ input {
     width: 50%;
 }
 .sub {
-    margin: 0 300px 20px 650px;
+    margin: 0 300px 20px 655px;
     font-size: 20px;
     padding: 5px 10px;
     border: 2px solid black;
-    fonr-weight: bold;
+    font-weight: bold;
+    border-color: 7px;
 }
 .textbox {
     width: 70%;
