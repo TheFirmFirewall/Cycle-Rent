@@ -7,7 +7,7 @@ header {
     background-color: #BDB4B2;
     height: 70px;
     border-radius: 4px;
-    width: 100vw;
+    width: 100%;
 }
 .header-logo {
     float:left;
@@ -24,7 +24,6 @@ header {
     height: 43px;
     margin-top: 5px;
     border-radius: 4px;
-    width: 100vw
 }
 .primary {
     float: left;
@@ -60,7 +59,6 @@ marquee {
     font-size: 20px;
     color: rgb(56, 31, 31);
     border-radius: 4px;
-    width: 100vw;
 }
 marquee span {
     font-weight: bold;
@@ -74,7 +72,7 @@ marquee span {
     background-image: url(Cycling-main.jpg);
     background-size: 1504px 720px;
     background-repeat: no-repeat;
-    width: 100vw;
+    width: 100%;
     border-radius: 4px;
 }
 .Rental {
@@ -142,7 +140,7 @@ footer {
     padding: 5px;
     position: absolute;
     bottom: 0;
-    width: 100vw;
+    width: 99.4%;
 }
 .footer-logo {
     float:left;
@@ -227,7 +225,6 @@ footer {
     margin: 50px 20px;
     border-radius: 10px;
     text-align: center;
-    width: 100vw;
 }
 .offer h3 {
     text-align: center;
@@ -239,7 +236,6 @@ footer {
     box-shadow: 5px 5px  rgb(184,154,154,0.5);
     margin: 50px 20px;
     border-radius: 10px;
-    width: 100vw;
 }
 .feedback h3 {
     text-align: center;
@@ -274,7 +270,6 @@ input {
     box-shadow: 5px 5px  rgb(184,154,154,0.5);
     margin: 50px 20px;
     border-radius: 10px;
-    width: 100vw;
 }
 .contact-us h3 {
     text-align: center;
